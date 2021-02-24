@@ -1,6 +1,6 @@
 # Jooppi
 Jooppi - Remote Management Tool
-(Java8 / CUI based demo program)
+(Java 8 / a CLI UI based demo program)
 
 Username: Testaaja
 Password: 1234Test
