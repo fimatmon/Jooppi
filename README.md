@@ -1,5 +1,5 @@
 # Jooppi
-Jooppi - Remote Management Tool
+Remote Management Tool
 (Java 8 / a CLI UI based demo program)
 
 Username: Testaaja
