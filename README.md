@@ -1,5 +1,5 @@
 # Jooppi
-Remote Management Tool
+Remote Management Tool - FIN/ENG language UI
 (Java 8 / a CLI UI based demo program)
 
 Username: Testaaja
